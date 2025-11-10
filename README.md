@@ -1,2 +1,2 @@
 # mywebproject
-creating my web project for demo use
+creating a project repo for demo use
